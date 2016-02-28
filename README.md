@@ -1,5 +1,5 @@
 # Abuse_queue_SpamFilter
- This is a designed to identify spam tickets in our spam/abuse queue 
+ This is designed to identify spam tickets in our spam/abuse queue 
  at the datacenter I work at.  The difficulty in using traditional
  spam filtering methods is that they will always select legitimate abuse tickets,
  because they always contain the full, original spam text in the body. 
